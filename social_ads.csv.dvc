@@ -1,0 +1,5 @@
+outs:
+- md5: 74c4b4fb2887795a1caedc9593ec6f7f
+  size: 4504
+  hash: md5
+  path: social_ads.csv
